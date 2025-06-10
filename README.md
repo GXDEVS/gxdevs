@@ -1,8 +1,9 @@
-# 👋 Olá! Eu sou Gilderlan um Desenvolvedor Fullstack com foco em aplicações modernas
+# 👋 Olá! Eu sou Gilderlan um Desenvolvedor Fullstack com foco em aplicações e soluções
 
 Sou apaixonado por transformar ideias em soluções eficientes. Trabalho tanto no **frontend quanto no backend**, com experiência em **aplicações web, mobile, desktop e inteligência artificial**. Sempre buscando performance, segurança e usabilidade.
 
 ### 🧠 Linguagens & Lógicas
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
@@ -15,6 +16,7 @@ Sou apaixonado por transformar ideias em soluções eficientes. Trabalho tanto n
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+</p>
 <br/>
 <br/>
 
@@ -30,6 +32,7 @@ Sou apaixonado por transformar ideias em soluções eficientes. Trabalho tanto n
 ### 📱 Mobile e Desktop
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+<img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
 <br/>
 <br/>
@@ -52,6 +55,10 @@ Sou apaixonado por transformar ideias em soluções eficientes. Trabalho tanto n
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
 <br/>
 <br/>
+
+### ✏️ UI/UX
+<img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 
 ## 🚀 Tecnologias que uso com frequência
 
