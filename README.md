@@ -95,3 +95,7 @@ Tecnologias que costumo usar no dia a dia:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-EF4444?style=for-the-badge&logo=framer)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxdevs&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxdevs&layout=pie)](https://github.com/gxdevs/github-readme-stats)
