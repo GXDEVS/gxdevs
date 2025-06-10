@@ -21,44 +21,54 @@ Sou apaixonado por transformar ideias em soluções eficientes. Trabalho tanto n
 <br/>
 
 ### 🌐 Frontend Web
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 <img  width="50px" style="border-radius: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"/>
+</p>
 <br/>
 <br/>
 
 ### 📱 Mobile e Desktop
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/capacitor/capacitor-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg"/>
+</p>
 <br/>
 <br/>
 
 ### ⚙️ Backend
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
+</p>
 <br/>
 <br/>
 
 ### 🔧 DevOps & Infraestrutura
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"/>
+</p>
 <br/>
 <br/>
 
 ### ✏️ UI/UX
+<p style="align-items: center; justify-content: center;">
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 <img  width="50px" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
+</p>
 
 ## 🚀 Tecnologias que uso com frequência
 
