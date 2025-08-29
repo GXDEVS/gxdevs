@@ -26,7 +26,7 @@ Fullstack Developer apaixonado por criar, aprender e explorar novas tecnologias.
 ## 🔎 Atualmente aprendendo:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,nest,c#,php" />
+  <img src="https://skillicons.dev/icons?i=graphql,nest,csharp,php" />
 </p>
 
 ---
