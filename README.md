@@ -1,3 +1,7 @@
+<video autoplay loop muted playsinline>
+  <source src="https://raw.githubusercontent.com/GXDEVS/gxdevs/main/gxdev.webm" type="video/webm">
+</video>
+
 <h1 align="center">👋 Olá! Eu sou o GX</h1>
 
 <p align="center">
