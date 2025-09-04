@@ -1,4 +1,6 @@
-[![GX Dev Intro](gxdev_thumbnail.jpg)](gxdev.webm)
+<video autoplay loop muted playsinline>
+  <source src="gxdev.mp4" type="video/mp4">
+</video>
 
 <h1 align="center">👋 Olá! Eu sou o GX</h1>
 
