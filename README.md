@@ -3,6 +3,9 @@
   </iframe>
 </div>
 
+# 🎥 Video Intro
+<iframe src="https://streamable.com/e/sgskof?autoplay=1&muted=1&nocontrols=1" frameborder="0" width="100%" height="auto" allowfullscreen></iframe>
+
 <p align="center">
 Fullstack Developer apaixonado por criar, aprender e explorar novas tecnologias. 🚀
 </p>
