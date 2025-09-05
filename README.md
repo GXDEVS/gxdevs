@@ -1,7 +1,7 @@
+[gxdev.webm](https://github.com/user-attachments/assets/38bb7c31-b494-4409-aa59-3243490bd30c)
 
-[gxdev.webm](https://github.com/user-attachments/assets/b6ec8826-0cd6-4461-9c89-464b90781728)
-
-<video src="https://github.com/user-attachments/assets/b6ec8826-0cd6-4461-9c89-464b90781728" autoplay loop muted playsinline>
+<video autoplay loop muted playsinline>
+  <source src="https://github.com/user-attachments/assets/38bb7c31-b494-4409-aa59-3243490bd30c" type="video/webm">
 </video>
 
 <p align="center">
