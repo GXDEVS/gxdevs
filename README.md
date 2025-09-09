@@ -37,10 +37,10 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/gilderlan-xavier-1a4b2927b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL" target="_blank">
+  <a href="mailto:gilderlandev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
