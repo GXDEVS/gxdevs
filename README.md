@@ -1,24 +1,21 @@
 ![gxdev](https://github.com/GXDEVS/gxdevs/blob/3db29cf8f932b060b57a7d29d96b7b00e4240720/gxdev.gif)
 
 <p align="center">
-  <a href="">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=GXDEVS&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
-  </a>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=GXDEVS&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me  
 
-- 💻 Junior **Fullstack Developer** with **3 years of experience**.  
-- 🎨 Creative by nature, always exploring new ideas, tools, and solutions.  
-- ⚡ Mainly working with **Next.js + Tailwind CSS**, but also experienced with **Laravel**, **Node.js**, **Express**, and more.  
-- 📊 Built a variety of projects, from simple **Landing Pages** to **SaaS platforms**, **Dashboards**, **REST APIs**, and even **AI/ML projects with TensorFlow**.  
-- 🐧 Currently using **Manjaro (Arch Linux based)** with **Docker** to streamline my development workflow.  
+- Junior **Fullstack Developer** with **3 years of experience**  
+- Focused on **Next.js + Tailwind CSS**, **Laravel**, **Node.js**, **Express**  
+- Worked on: **Landing Pages**, **SaaS**, **Dashboards**, **REST APIs**, **AI/ML with TensorFlow**  
+- Current stack: **Manjaro (Arch Linux based)** + **Docker**  
 
 ---
 
-## 🚀 Main Skills
+## 🚀 Main Skills  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,typescript,javascript,nodejs,express,laravel,php,prisma,mysql,postgres,firebase,supabase,aws,docker,nginx,html,css,figma,photoshop,git,github,tensorflow" />
@@ -26,7 +23,7 @@
 
 ---
 
-## 🔎 Currently Learning
+## 🔎 Currently Learning  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=graphql,nest,tauri,php,rust" />
@@ -34,13 +31,19 @@
 
 ---
 
+<p align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds" alt="Readme Quotes"/>
+</p>
+
+---
+
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gilderlan-xavier-1a4b2927b/" target="_blank">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:gilderlandev@gmail.com" target="_blank">
+  <a href="mailto:SEU-EMAIL" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
