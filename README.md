@@ -9,9 +9,9 @@
 ## 🧑‍💻 About Me  
 
 - Junior **Fullstack Developer** with **3 years of experience**  
-- Focused on **Next.js + Tailwind CSS**, **Laravel**, **Node.js**, **Express**  
-- Worked on: **Landing Pages**, **SaaS**, **Dashboards**, **REST APIs**, **AI/ML with TensorFlow**  
-- Current stack: **Manjaro (Arch Linux based)** + **Docker**  
+- Focused on **Bun Next.js + Tailwind CSS**, **Laravel**, **Node.js**, **Express**  
+- Worked on: **Landing Pages**, **SaaS**, **MVPs**, **Dashboards**, **REST APIs**, **AI/ML with TensorFlow**  
+- Current stack: **Ubuntu 24.04 GNOME Wayland** + **Docker**  
 
 ---
 
@@ -26,7 +26,7 @@
 ## 🔎 Currently Learning  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,nest,tauri,php,rust" />
+  <img src="https://skillicons.dev/icons?i=graphql,nest,tauri,php,rust,bun,electron" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL" target="_blank">
+  <a href="mailto:gilderlandev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
