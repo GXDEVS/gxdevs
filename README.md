@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me  
 
-- Junior **Fullstack Developer** with **3 years of experience**  
+- Developer **Fullstack Developer** with **4 years of experience**  
 - Focused on **Bun Next.js + Tailwind CSS**, **Laravel**, **Node.js**, **Express**  
 - Worked on: **Landing Pages**, **SaaS**, **MVPs**, **Dashboards**, **REST APIs**, **AI/ML with TensorFlow**  
 - Current stack: **Ubuntu 24.04 GNOME Wayland** + **Docker**  
