@@ -11,7 +11,7 @@
 - Pleno **Fullstack Developer** with **4 years of experience**  
 - Focused on **Bun Next.js + Tailwind CSS**, **Laravel**, **Node.js**, **Express**  
 - Worked on: **Landing Pages**, **SaaS**, **MVPs**, **Dashboards**, **REST APIs**, **AI/ML with TensorFlow**  
-- Current stack: **Ubuntu 24.04 GNOME Wayland** + **Docker**  
+- Current stack: **Pop OS 22.04 GNOME Wayland** + **Docker**  
 
 ---
 
